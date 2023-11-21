@@ -1,0 +1,11 @@
+release/add_task_page.o
+release/create_account_page.o
+release/main.o
+release/mainpage.o
+release/mainwindow.o
+release/view_task_details_page.o
+release/moc_add_task_page.o
+release/moc_create_account_page.o
+release/moc_mainpage.o
+release/moc_mainwindow.o
+release/moc_view_task_details_page.o

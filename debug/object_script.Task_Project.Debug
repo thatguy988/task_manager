@@ -1,0 +1,11 @@
+debug/add_task_page.o
+debug/create_account_page.o
+debug/main.o
+debug/mainpage.o
+debug/mainwindow.o
+debug/view_task_details_page.o
+debug/moc_add_task_page.o
+debug/moc_create_account_page.o
+debug/moc_mainpage.o
+debug/moc_mainwindow.o
+debug/moc_view_task_details_page.o
